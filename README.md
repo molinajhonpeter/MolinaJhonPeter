@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello! My name is Jhon Peter B. Molina
 
-<!--
-**molinajhonpeter/MolinaJhonPeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#About Me
+  BS Information Technology student at Laguna state Polytechnic University.
 
-Here are some ideas to get you started:
+  Aspiring Web Developer reaching to build efficient and impactful web systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Passionate about building functional information systems and managing data.
+
+  Connect with me on LinkedIn: jhon-peter-molina-56a185427
+
+#Connect with me: https:
+//www.linkedin.com/in/jhon-peter-molina-56a185427/
+
+molinajhonpeter14@gmail.com
